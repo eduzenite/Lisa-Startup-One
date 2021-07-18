@@ -50,7 +50,7 @@
                     <div class="row py-5">
                         <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
                             <h5 class="text-3 mb-3 opacity-7">Saiba mais</h5>
-                            <p class="pr-1 text-color-light">Quer integrar nossa ferramente para melhorar a qualidade de vida de seus funcionários? Preencha o formulário abaixo que entraremos em contato com você.</p>
+                            <p class="pr-1 text-color-light">Quer saber mais sobre a Lisa? Preencha o formulário a baixo.</p>
                             <div class="alert alert-danger d-none" id="newsletterError"></div>
                             <form action="#" method="POST" class="mr-4 mb-md-0">
                                 <div class="form-group my-2">
